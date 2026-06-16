@@ -1,4 +1,4 @@
-# Manjunath HK
+# Manjunath Krishnasa
 
 > **Solution Architect** — enterprise systems across **fintech · healthcare · SaaS** · 25+ years
 
